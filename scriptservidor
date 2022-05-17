@@ -1,2 +1,3 @@
 #!/bin/bash
+#AMANDA PASSOU AQUI 
 java -jar teste-servidores.jar
